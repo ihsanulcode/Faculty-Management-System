@@ -1,0 +1,35 @@
+Sarwar Khalid
+SAR
+CSE 115
+12:00 PM -  01:30 PM
+NAC 114
+Rashed Selim
+RSL
+CSE 227
+11:30 AM - 01:30 PM
+NAC 308
+Moonsharin Ahmen
+MOA1
+ENG 103
+02:40pm - 04:10pm
+NAC 508
+Anamul Haq
+ANHS
+MAT 116
+08:00AM - 09:30PM
+NAC 911
+Menon Pranto
+MNP
+DOTA 101
+09:00AM - 10:30AM
+NAC 420
+Tasmia Rahman Shahidi
+TAS
+CSE 115L
+04:20PM-05:50PM
+LIB610
+Ihsanul Haque
+IHSH
+CSE 223
+02:30pm - 04:00pm
+SAC 553
